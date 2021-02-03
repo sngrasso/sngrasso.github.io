@@ -19,6 +19,14 @@ html {
 
 /*************INITIAL STYLING***********/
 
+.title_img{
+
+    text-align: center;
+    width: 50%;
+    margin: auto;
+
+}
+
 a {
     text-decoration: none;
     color: #503ec2;
@@ -32,6 +40,29 @@ a:hover {
 body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
+    background-color: #3B6EA5;
 
+}
+
+section {
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
+}
+
+section h3 {
+    background-color: navy;
+    font-weight: 100;
+    font-size: .8em;
+    color: white;
+    padding: .5%;
+    margin-bottom: -.6%;
+}
+
+.inner_text {
+/*    margin: auto;*/
+    padding: 5%;
+    width: 100%;
+    background-color: lightgray;
 }
 
