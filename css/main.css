@@ -40,7 +40,7 @@ a:hover {
 body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
-    background-color: #3B6EA5;
+    background-color: #1f6191;
 
 }
 
@@ -50,7 +50,7 @@ section {
     margin: auto;
 }
 
-section h3 {
+section h4 {
     background-color: navy;
     font-weight: 100;
     font-size: .8em;
